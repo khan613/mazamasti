@@ -1,6 +1,3 @@
-
-<body bgcolor="#DDDDDD">
-<div>
 <h1 align="center">Click to play this video </h1>
 <div align="center"><a href="http://www.horticulture-courses.info/gardening-diploma-course/"><img width="534" height="340" src="https://3.bp.blogspot.com/-w8Zmic-t6Zw/WjjD3Ia3FoI/AAAAAAAAARA/5b9kbj_TZaYH_rYlLsm62FsTCxBDh3tWgCLcBGAs/s1600/pizap.com15136643810888.jpg"></a></div>
 <h1 align="center">Click to play this video </h1>
